@@ -13,9 +13,9 @@
     <h2>Lista desordenada</h2>
     <div>
         <ul>
-            <a href="http://www.youtube.com">YouTube</a>
-            <a href="http://www.youtube.com">YouTube2</a>
-            <a href="http://www.youtube.com">YouTube3</a>
+            <li><a href="http://www.youtube.com">YouTube</a></li>
+            <li><a href="http://www.youtube.com">YouTube2</a></li>
+            <li><a href="http://www.youtube.com">YouTube3</a></li>
         </ul>
     </div>
 </body>
